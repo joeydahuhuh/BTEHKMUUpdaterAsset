@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<versions>
+<class>
 	<version>
 		<id>1.0</id>
 		<url>https://</url>
@@ -8,4 +8,4 @@
 		<id>1.1</id>
 		<url>https://</url>
 	</version>	
-</versions>
+</class>  
