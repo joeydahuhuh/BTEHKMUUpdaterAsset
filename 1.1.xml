@@ -3,69 +3,86 @@
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2443/194/BetterBuildersWands-1.12-0.11.1.245%2B69d0d70.jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2799/797/CustomNPCs_1.12.2-(01Oct19).jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2910/783/CubicChunks-1.12.2-0.0.1055.0-SNAPSHOT-all.jar</url>
+		<action>file</action>
 	</file>
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2799/797/CustomNPCs_1.12.2-(01Oct19).jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2882/811/CubicWorldGen-1.12.2-0.0.115.0-SNAPSHOT-all.jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2847/346/effortlessbuilding-1.12.2-2.16.jar</url>
+		<action>file</action>
 	</file>
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2888/880/journeymap-1.12.2-5.7.0.jar</url>
+		<action>file</action>
 	</file>		
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2939/52/performant-1.12.2-1.10.jar</url>
+		<action>file</action>
 	</file>		
 	<file>
 		<subfile>mods</subfile>
 		<url>https://github.com/orangeadam3/terra121/releases/download/0.1.0/terra121-0.1.jar</url>
+		<action>file</action>
 	</file>		
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>mods</subfile>
 		<url>https://media.forgecdn.net/files/2971/501/worldedit-forge-mc1.12.2-6.1.11-cubicchunks-SNAPSHOT-dist.jar</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>texturepacks</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/BTEHKMU_Texture_1.zip</url>
+		<action>file</action>
 	</file>
 	<file>
 		<subfile>texturepacks</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/BTEHKMU_Texture_2.zip</url>
+		<action>file</action>
 	</file>
 	<file>
 		<subfile>config</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/cubicchunks.cfg</url>
+		<action>file</action>
 	</file>	
 	<file>
 		<subfile>config</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/vanillafix.cfg</url>
+		<action>file</action>
 	</file>
 	<file>
 		<subfile>saves</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/Build_The_Earth_new_projection.zip</url>
+		<action>unzip</action>
 	</file>
 </class>
