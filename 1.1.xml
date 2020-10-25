@@ -50,22 +50,22 @@
 	</file>	
 	<file>
 		<subfile>texturepacks</subfile>
-		<url>https://cdn.discordapp.com/attachments/727374388378337334/769878608516087858/BTEHKMU_Texture_1.zip</url>
+		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/BTEHKMU_Texture_1.zip</url>
 	</file>
 	<file>
 		<subfile>texturepacks</subfile>
-		<url>https://cdn.discordapp.com/attachments/727374388378337334/769878603914543124/BTEHKMU_Texture_2.zip</url>
+		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/BTEHKMU_Texture_2.zip</url>
 	</file>
 	<file>
 		<subfile>config</subfile>
-		<url>https://cdn.discordapp.com/attachments/727374388378337334/769882206184144926/cubicchunks.cfg</url>
+		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/cubicchunks.cfg</url>
 	</file>	
 	<file>
 		<subfile>config</subfile>
-		<url>https://cdn.discordapp.com/attachments/727374388378337334/769882216011792384/vanillafix.cfg</url>
+		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/vanillafix.cfg</url>
 	</file>
 	<file>
 		<subfile>saves</subfile>
-		<url>https://cdn.discordapp.com/attachments/727374388378337334/769882770150260739/Build_The_Earth_new_projection.zip</url>
+		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/Build_The_Earth_new_projection.zip</url>
 	</file>
 </class>
