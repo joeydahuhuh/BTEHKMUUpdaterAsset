@@ -61,12 +61,12 @@
 		<action>file</action>
 	</file>	
 	<file>
-		<subfile>texturepacks</subfile>
+		<subfile>resourcepacks</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/BTEHKMU_Texture_1.zip</url>
 		<action>file</action>
 	</file>
 	<file>
-		<subfile>texturepacks</subfile>
+		<subfile>resourcepacks</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/BTEHKMU_Texture_2.zip</url>
 		<action>file</action>
 	</file>
