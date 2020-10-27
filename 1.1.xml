@@ -85,6 +85,11 @@
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/Build_The_Earth_new_projection.zip</url>
 		<action>unzip</action>
 	</file>
+	<file>
+		<subfile></subfile>
+		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/servers.dat</url>
+		<action>file</action>
+	</file>	
 	<forge>
 		<config>
 			<version>1.12.2-forge1.12.2-14.23.5.2847</version>
