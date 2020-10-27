@@ -88,82 +88,82 @@
 	<forge>
 		<config>
 			<version>1.12.2-forge1.12.2-14.23.5.2847</version>
-			<url>https://raw.githubusercontent.com/joeyho111/BTEHKMUUpdaterAsset/main/1.12.2-forge1.12.2-14.23.5.2847.json</url>
+			<confurl>https://raw.githubusercontent.com/joeyho111/BTEHKMUUpdaterAsset/main/1.12.2-forge1.12.2-14.23.5.2847.json</confurl>
 		</config>
 		<lib>
 			<path>\\net\\minecraftforge\\forge\\1.12.2-14.23.5.2847\\</path>
 			<filename>forge-1.12.2-14.23.5.2847.jar</filename>
-			<url>http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar</url>
+			<liburl>http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\ow2\\asm\\asm-all\\5.2\\</path>
 			<filename>asm-all-5.2.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\jline\\jline\\3.5.1</path>
 			<filename>jline-3.5.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/jline/jline/3.5.1/jline-3.5.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/jline/jline/3.5.1/jline-3.5.1.jar</liburl>
 		</lib>	
 		<lib>
 			<path>\\com\\typesafe\\akka\\akka-actor_2.11\\2.3.3\\</path>
 			<filename>akka-actor_2.11-2.3.3.jar</filename>
-			<url>https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar</url>
+			<liburl>https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar</liburl>
 		</lib>	
 		<lib>
 			<path>\\com\\typesafe\\config\\1.2.1\\</path>
 			<filename>config-1.2.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\scala-lang\\scala-actors-migration_2.11\\1.1.0\\</path>
 			<filename>scala-actors-migration_2.11-1.1.0.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\scala-lang\\scala-compiler\\2.11.1\\</path>
 			<filename>scala-compiler-2.11.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\scala-lang\\plugins\\scala-continuations-library_2.11\\1.0.2\\</path>
 			<filename>scala-continuations-library_2.11-1.0.2.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar</liburl>
 		</lib>	
 		<lib>
 			<path>\\org\\scala-lang\\plugins\\scala-continuations-plugin_2.11.1\\1.0.2\\</path>
 			<filename>scala-continuations-plugin_2.11.1-1.0.2.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar</liburl>
 		</lib>			
 		<lib>
 			<path>\\org\\scala-lang\\scala-library\\2.11.1\\</path>
 			<filename>scala-library-2.11.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar</liburl>
 		</lib>	
 		<lib>
 			<path>\\org\\scala-lang\\scala-parser-combinators_2.11\\1.0.1\\</path>
 			<filename>scala-parser-combinators_2.11-1.0.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar</liburl>
 		</lib>	
 		<lib>
 			<path>\\org\\scala-lang\\scala-reflect\\2.11.1\\</path>
 			<filename>scala-reflect-2.11.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\scala-lang\\scala-swing_2.11\\1.0.1\\</path>
 			<filename>scala-swing_2.11-1.0.1.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar</liburl>
 		</lib>	
 		<lib>
 			<path>\\org\\scala-lang\\scala-xml_2.11\\1.0.2\\</path>
 			<filename>scala-xml_2.11-1.0.2.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar</liburl>
 		</lib>
 		<lib>
 			<path>\\org\\apache\\maven\\maven-artifact\\3.5.3\\</path>
 			<filename>maven-artifact-3.5.3.jar</filename>
-			<url>https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar</url>
+			<liburl>https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar</liburl>
 		</lib>
 	</forge>
 </class>
