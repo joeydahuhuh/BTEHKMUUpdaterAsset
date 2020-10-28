@@ -83,7 +83,7 @@
 	<file>
 		<subfile>saves</subfile>
 		<url>https://github.com/joeyho111/BTEHKMUUpdaterAsset/raw/main/Build_The_Earth_new_projection.zip</url>
-		<action>unzip</action>
+		<action>unzip+preserve</action>
 	</file>
 	<file>
 		<subfile></subfile>
